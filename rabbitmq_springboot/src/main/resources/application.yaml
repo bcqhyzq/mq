@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rabbitmq-springboot
+  rabbitmq:
+    host: 60.205.254.33
+    port: 5672
+    username: user
+    password: 123456
+    virtual-host: /bcqh
